@@ -1,5 +1,7 @@
 run flask app on local
 
+pip3 install -r requirements.txt
+
 export JWT_SECRET='myjwtsecret'
 export LOG_LEVEL=DEBUG
 
